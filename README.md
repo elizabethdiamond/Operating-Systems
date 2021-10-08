@@ -3,7 +3,7 @@
 # Project 1: Simple Shell
 A simple shell which is able to execute commands, redirect the standard input/output (​stdin/stdout​) of commands to files, pipe the output of commands to other commands, and carry out commands in the background (parsing, standard file descriptors, process cloning)
 
-# Project 2: Threading Library
+# Project 2: Thread Library
 A user-space thread library, similar to the pthreads set of interfaces (scheduling(round robin), register/stack manipulation, thread state management)
 
 # Project 3: Thread Synchronization
