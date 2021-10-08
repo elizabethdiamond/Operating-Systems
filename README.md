@@ -12,5 +12,5 @@ Expansion of threading library from project 2 to support thread synchronization 
 # Project 4: Thread Local Storage
 Implementation for threads to store information that offers protection from other threads (memory management, memory pages, page protections, copy on write)
 
-# Project 5: File Systems
+# Project 5: File System
 A file system that runs on a Linux file system, not the kernel (inodes, disk management, indirect block mapping, bit manipulation)
